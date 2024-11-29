@@ -7,5 +7,4 @@ public class mainMethod
         guiClass test = new guiClass();
         test.guiColor();
     }
-
 }
